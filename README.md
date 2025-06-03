@@ -169,6 +169,7 @@ This project is open source. Feel free to use, modify, and distribute.
 
 **Author**: Minosh Perera  
 **GitHub**: [@MinoshPerera](https://github.com/MinoshPerera/)  
+**LinkedIn**: [@minoshperera](https://linkedin.com/in/minoshperera/) 
 **Email**: sithijaperera3@gmail.com
 
 ---
