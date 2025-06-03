@@ -190,4 +190,4 @@ This project is open source. Feel free to use, modify, and distribute.
 2. **Clone this repo** and follow the setup steps above
 3. **Start analyzing stocks** with AI-powered insights!
 
-*Empower your financial research with AI. Dive into markets, trends, and fundamentals — all in seconds.*
+*Empower your financial research with AI. Dive into markets, trends, and fundamentals — all in seconds.* 
