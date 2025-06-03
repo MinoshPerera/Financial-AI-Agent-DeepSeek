@@ -1,5 +1,15 @@
 # DeepSeek-Powered AI Agent for Financial Intelligence
 
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blueviolet)](https://platform.deepseek.com/)
+[![PHI SDK](https://img.shields.io/badge/PHI%20SDK-Orchestrator-green)](https://github.com/phidatahq/phidata)
+[![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-Data-red)](https://finance.yahoo.com/)
+[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Search-orange)](https://duckduckgo.com/)
+[![CLI Supported](https://img.shields.io/badge/CLI-Supported-lightgrey)](#)
+[![Web Interface](https://img.shields.io/badge/Web%20Playground-Available-brightgreen)](#)
+[![Last Updated](https://img.shields.io/badge/Updated-June%202025-informational)](#)
+
 An advanced AI assistant that automates financial research by integrating real-time market data, company fundamentals, news analysis, and web search — powered by [DeepSeek](https://platform.deepseek.com/). This intelligent agent combines Yahoo Finance tools and DuckDuckGo search within a multi-agent system for comprehensive, data-backed financial insights.
 
 ## 🎯 What This Agent Does
