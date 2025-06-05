@@ -24,7 +24,6 @@ Built with the [PHI SDK](https://github.com/phidatahq/phidata) and powered by De
 
 ## ✨ Key Features
 
-- ✅ **Free to Use**: DeepSeek API offers generous free limits
 - ✅ **High Performance**: GPT-4 level reasoning capabilities
 - ✅ **Real-time Data**: Live stock prices, news, and market data
 - ✅ **Multi-modal Research**: Combines quantitative data with qualitative insights
