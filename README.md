@@ -35,7 +35,7 @@ Built with the [PHI SDK](https://github.com/phidatahq/phidata) and powered by De
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/AI-Powered-Financial-Research-Agent.git
+git clone https://github.com/MinoshPerera/Financial-AI-Agent-DeepSeek
 cd AI-Powered-Financial-Research-Agent
 
 # Create virtual environment
@@ -67,12 +67,10 @@ Then open http://localhost:7777 in your browser.
 
 ## 🔑 API Keys Required
 
-### DeepSeek API (Required - Free)
-- Get your free API key: https://platform.deepseek.com/
-- Generous free tier with high rate limits
-- No credit card required for basic usage
+### DeepSeek API 
+- Get your API key: https://platform.deepseek.com/
 
-### PHI API (Optional)
+### PHI API
 - Enhanced features: https://phidata.com/
 - Not required for basic functionality
 
@@ -101,7 +99,7 @@ Try these sample queries to explore the agent's capabilities:
 ## 📁 Project Structure
 
 ```
-AI-Powered-Financial-Research-Agent/
+Financial-AI-Agent-DeepSeek/
 ├── venv/                    # Virtual environment
 ├── .env                     # API keys (create this)
 ├── .gitignore              # Git ignore rules
@@ -136,7 +134,6 @@ AI-Powered-Financial-Research-Agent/
 
 ## 🧠 Why DeepSeek?
 
-- **🆓 Free API**: Generous limits without upfront costs
 - **⚡ Fast**: Quick response times for real-time analysis  
 - **🎯 Accurate**: GPT-4 level performance on financial tasks
 - **🔧 Tool Support**: Native function calling for data integration
@@ -146,10 +143,15 @@ AI-Powered-Financial-Research-Agent/
 
 Core requirements (auto-installed via `requirements.txt`):
 ```
-phi
+phidata 
 python-dotenv
 yfinance
+packaging
 duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
 ```
 
 ## 🤝 Contributing
@@ -186,7 +188,7 @@ This project is open source. Feel free to use, modify, and distribute.
 
 ### 🚀 Ready to Get Started?
 
-1. **Get your free DeepSeek API key** → https://platform.deepseek.com/
+1. **Get your DeepSeek API key** → https://platform.deepseek.com/
 2. **Clone this repo** and follow the setup steps above
 3. **Start analyzing stocks** with AI-powered insights!
 
