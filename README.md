@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 ```env
 DEEPSEEK_API_KEY=your_deepseek_api_key_here
-PHI_API_KEY=your_phi_api_key_here  # Optional
+PHI_API_KEY=your_phi_api_key_here
 ```
 
 ### 3. Run the Agent
@@ -99,7 +99,7 @@ Try these sample queries to explore the agent's capabilities:
 
 ```
 Financial-AI-Agent-DeepSeek/
-├── venv/                    # Virtual environment
+├── venv/                    # Virtual environment (create this)
 ├── .env                     # API keys (create this)
 ├── .gitignore              # Git ignore rules
 ├── requirements.txt        # Python dependencies
